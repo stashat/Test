@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-15T14:01:37.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69" etag="cecTcVG569Bk7kEIyKkZ" version="13.9.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-15T14:02:46.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69" etag="Q4vNTsHIQO6w3dXnwXb-" version="13.9.8" type="github" pages="4">
   <diagram id="Y6KTWnDbhFmh0sTXdoiS" name="zad1">
     <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -313,7 +313,7 @@
         <mxCell id="XqzWIHeLJLKIAlZDODUY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SLVx96d7e9BiHXttV4bz-1" source="XqzWIHeLJLKIAlZDODUY-10" target="XqzWIHeLJLKIAlZDODUY-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XqzWIHeLJLKIAlZDODUY-10" value="res = 10^i * n % 10" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="SLVx96d7e9BiHXttV4bz-1">
+        <mxCell id="XqzWIHeLJLKIAlZDODUY-10" value="res = res * 10^i + n % 10" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="SLVx96d7e9BiHXttV4bz-1">
           <mxGeometry x="265" y="590" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XqzWIHeLJLKIAlZDODUY-11" value="NE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SLVx96d7e9BiHXttV4bz-1">
