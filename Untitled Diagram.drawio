@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T23:14:53.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="q0sRBZNwbvBwLEg0e0pw" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T23:17:05.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="1cJzQk03CROBeM7J3hJ8" version="14.5.3" type="github">
   <diagram id="eW_Csn7A7cCMrlzWMXdx" name="Page-1">
     <mxGraphModel dx="1888" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="abNPTSpVEPmIbuvRd8-O-2" value="Sale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="abNPTSpVEPmIbuvRd8-O-3" value="Predstave" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="abNPTSpVEPmIbuvRd8-O-3" value="Predstave&lt;br&gt;-ime predstave&lt;br&gt;-br sale gdje se odrzava&lt;br&gt;-glumci&lt;br&gt;-cijena karte&lt;br&gt;-uzrast(djeca, odrasli)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="270" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="abNPTSpVEPmIbuvRd8-O-5" value="Glumci" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="310" width="120" height="60" as="geometry" />
