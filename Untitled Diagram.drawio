@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-27T13:40:22.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="SDnKmW6hPbrsscDQQT51" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-27T13:41:13.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="qYm9-Y6FKgMUoiiUzLzr" version="13.9.8" type="github">
   <diagram id="PFCEUixwn4KBJ1EoMOms" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="8E1iLkJKNRUw8z5EEAQa-2" value="glumci u predstavi&lt;br&gt;-niz glumaca" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="240" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8E1iLkJKNRUw8z5EEAQa-4" value="sale&lt;br&gt;termini" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="8E1iLkJKNRUw8z5EEAQa-4" value="organizacija predstava&lt;br&gt;sale&lt;br&gt;termini" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="250" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8E1iLkJKNRUw8z5EEAQa-6" value="sala&lt;br&gt;-br kupljenih sjedista&lt;br&gt;-cijena sjedista&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
